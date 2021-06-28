@@ -7,7 +7,7 @@
 .bg {
     width: 100%;
     height: 100vh;
-    background: crimson;
+    background: rgb(6, 58, 228);
     display: flex;
     align-items: center;
     justify-content: center;
